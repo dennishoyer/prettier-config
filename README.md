@@ -15,8 +15,8 @@ Add the prettier line into your package.json.
 ```json
 {
   "name": "@author/package",
-  "scripts": { ... },
-  "devDependencies": { ... },
+  "scripts": { },
+  "devDependencies": { },
   "prettier": "@dennishoyer/prettier-config"
 }
 
